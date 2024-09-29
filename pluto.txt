@@ -1,0 +1,2 @@
+pluto is a dwarf planet. 
+deleteing rom working directory may not delete it from staging area.
